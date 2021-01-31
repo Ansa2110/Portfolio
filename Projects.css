@@ -1,0 +1,13 @@
+body 
+{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeH8y3GNiZQMrGR3n0l6_r2mdEWMRJxD4bBA&usqp=CAU");
+  background-size: full;
+  font-family: 'Londrina Solid', cursive;
+}
+.jumbotron
+{
+  color:white;
+  text-shadow: 2px 2px 5px blue;
+  background-image:url("https://assets.kpmg/is/image/kpmg/glass-texture-against-blue-background:cq5dam.web.1082.378");
+  background-size: 100%;
+}

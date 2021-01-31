@@ -1,0 +1,47 @@
+body 
+{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeH8y3GNiZQMrGR3n0l6_r2mdEWMRJxD4bBA&usqp=CAU");
+  background-size: full;
+  font-family: 'Londrina Solid', cursive;
+}
+.jumbotron
+{
+  color:white;
+  text-shadow: 2px 2px 5px blue;
+  background-image:url("https://assets.kpmg/is/image/kpmg/glass-texture-against-blue-background:cq5dam.web.1082.378");
+  background-size: 100%;
+}
+p
+{
+    margin-left:20px ;
+    font-size: large;
+}
+.i1
+{
+    float:right;
+    height:25px;
+    width:25px;
+    margin-right:577px;
+}
+.i2
+{
+    float:right;
+    height:25px;
+    width:25px;
+    margin-right:531px;
+}
+.i3
+{
+    float:right;
+    height:25px;
+    width:25px;
+    margin-right:625px;
+}
+.i4
+{
+    
+    float:right;
+    height:25px;
+    width:25px;
+    margin-right:615px;
+}
